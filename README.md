@@ -1,5 +1,5 @@
 # python_example_code
-Small examples of my code in Python
+Some small examples of my code in Python
 
 SIN-UPC-ISBN-Validator.py
 
